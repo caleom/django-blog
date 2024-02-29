@@ -32,7 +32,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['.gitpod.io',
                 '.herokuapp.com']
-CSRF_ALLOWED_HOSTS = ['https://*.gitpod.io']
+CSRF_ALLOWED_HOSTS = ['https://8000-caleom-djangoblog-pmxs73yanjp.ws-eu108.gitpod.io',
+                    "https://*.herokuapp.com"]
 
 
 # Application definition
