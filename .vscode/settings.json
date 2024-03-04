@@ -17,7 +17,6 @@
       "**/.vscode": true,
       "**/core.Microsoft*": true,
       "**/core.mongo*": true,
-      "**/core.python*": true,
       "**/CVS": true
    },
    "files.autoSave": "off",
